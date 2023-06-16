@@ -32,6 +32,6 @@
     "@types/express-session": "^1.17.7",
     "@types/morgan": "^1.9.4",
     "@types/passport": "^1.0.12",
-    "@types/passport-local": "^1.0.35",
+    "@types/passport-local": "^1.0.35"
   }
 }
