@@ -1,0 +1,36 @@
+{
+  "name": "animelist",
+  "version": "1.0.0",
+  "description": "API of animes",
+  "main": "server.js",
+  "author": "Nicole Peralta",
+  "license": "MIT",
+  "dependencies": {
+    "@types/connect-flash": "^0.0.37",
+    "@types/cookie-parser": "^1.4.3",
+    "@types/cors": "^2.8.13",
+    "@types/debug": "^4.1.8",
+    "@types/ejs": "^3.1.2",
+    "@types/express-session": "^1.17.7",
+    "@types/morgan": "^1.9.4",
+    "@types/passport": "^1.0.12",
+    "@types/passport-local": "^1.0.35",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "debug": "^4.3.4",
+    "ejs": "^3.1.9",
+    "expres": "^0.0.5",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "http-errors": "^2.0.0",
+    "mongoose": "^7.3.0",
+    "morgan": "^1.10.0",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/http-errors": "^2.0.1"
+  }
+}
