@@ -47,7 +47,7 @@ const createFilter = (query: any, year: any, category: any) => {
     const filter: any = {};
 
     if (query) {
-        filter.title = { $regex: query, $options: 'i' };
+        filter.name = { $regex: query, $options: 'i' };
     }
 
     if (year) {
